@@ -6,3 +6,4 @@ scikit-learn
 
 ydata-profiling
 statsmodels
+prophet
