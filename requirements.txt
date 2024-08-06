@@ -7,3 +7,5 @@ scikit-learn
 ydata-profiling
 statsmodels
 prophet
+tensorflow
+keras
