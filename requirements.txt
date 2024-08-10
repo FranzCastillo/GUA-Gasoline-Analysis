@@ -10,3 +10,4 @@ prophet
 tensorflow
 keras
 scikeras
+notebook
